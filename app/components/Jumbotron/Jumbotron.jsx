@@ -1,6 +1,6 @@
 import React from 'react';
 
-import styles from './Jumbotron.scss';
+import css from './Jumbotron.scss';
 
 export default class Jumbotron extends React.Component {
 
@@ -18,7 +18,7 @@ export default class Jumbotron extends React.Component {
             to featured content or information.
           </p>
           <hr className="m-y-md" />
-          <p className={styles.grayText}>
+          <p className={css.grayText}>
             It uses utility classes for typography
             and spacing to space content out
             within the larger container.
