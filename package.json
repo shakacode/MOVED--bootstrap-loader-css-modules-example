@@ -47,7 +47,7 @@
     "babel-loader": "^5.3.3",
     "babel-plugin-react-transform": "^1.1.1",
     "body-parser": "^1.14.1",
-    "bootstrap-loader": "0.0.4",
+    "bootstrap-loader": "0.0.5",
     "css-loader": "^0.23.0",
     "eslint": "^1.9.0",
     "eslint-config-airbnb": "^1.0.0",
