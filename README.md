@@ -2,6 +2,15 @@
 
 See [bootstrap-loader/tree/master/examples/css-modules](https://github.com/shakacode/bootstrap-loader/tree/master/examples/css-modules)
 
+------------------------
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## bootstrap-loader-css-modules-example
 
