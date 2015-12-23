@@ -1,4 +1,9 @@
-# bootstrap-loader-css-modules-example
+# MOVED!
+
+See [bootstrap-loader/tree/master/examples/css-modules](https://github.com/shakacode/bootstrap-loader/tree/master/examples/css-modules)
+
+
+## bootstrap-loader-css-modules-example
 
 Use one of `.bootstraprc-X-example` configs to test different versions of Bootstrap.
 
